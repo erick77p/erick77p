@@ -6,8 +6,10 @@
 - **Nome**: Erick Victor Pereira Silva
 - **Endereço**: Recife/PE
 - **Telefone**: [81985999228](tel:+5581985999228)
-- **E-mail**: [erickvictor1811@gmail.com](mailto:erickvictor1811@gmail.com)
+
   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickvictor1811@gmail.com) 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-victor-bba487228) 
 
 
