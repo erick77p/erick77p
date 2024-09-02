@@ -28,4 +28,5 @@ Obrigado pela atenção!
 - Javascipt
 - Python
 - React Native
+  
 ![Snake animation](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
